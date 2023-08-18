@@ -1,0 +1,23 @@
+.desi .title {
+  margin: 0;
+  background-color: #31b675;
+}
+.desi h3 {
+  margin: 0;
+  padding: 15px 0 15px 0;
+  color: white;
+}
+.desi{
+  width: 100%;
+}
+.container_destination {
+  max-width: 92%;
+  margin: auto;
+}
+.desi .img {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 252px;
+}
+
